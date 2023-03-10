@@ -1,15 +1,11 @@
-﻿using AutoMapper;
+﻿using Service.Common.Mappings;
+
 using Core.Entities;
-using Service.Common.Mappings;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using AutoMapper;
 
 namespace Service.DTO
 {
-    public class UserDto : IMapFrom<User>
+    public class UserDto: IMapFrom<User>
     {
         public int UserId { get; set; }
         public string UserNom { get; set; }
@@ -27,12 +23,10 @@ namespace Service.DTO
         public long? UserUpdatedbyuser { get; set; }
         public DateTime? UserUpdatedondate { get; set; }
 
-        public virtual ICollection<Usersrole> Usersroles { get; set; }
-
+        public virtual ICollection<Core.Entities.Usersrole> Usersroles { get; set; }
         public void Mapping (Profile profile)
         {
-            profile.CreateMap<User, UserDto>().ReverseMap ();
+            profile.CreateMap<User, UserDto>().ReverseMap();
         }
     }
-}
 }
