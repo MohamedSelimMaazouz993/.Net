@@ -1,4 +1,4 @@
-## Guide To Execute CRUD App Using .Net as Backend !
+## Guide To Run a CRUD App Using .Net as Server-side !
 
 1. Download The Projects 
 2. Click on ```Ing_IAM.sln```
