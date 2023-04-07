@@ -1,11 +1,8 @@
-# .Net
-
 ## Guide To Execute CRUD App Using .Net as Backend !
 
-Download The Projects and follow the screenshots Down Below 
+Download The Projects and follow the screenshots Down Below 📸
 
-
-# Screenshots
+# Screenshots 📸
 
 ## In Visual Studio :
 
@@ -90,3 +87,15 @@ Click on Continue :
 Now We return To Postman and Send the post Request The User will be added Succesfully 
 
 ![postman 8](https://user-images.githubusercontent.com/71633887/230672780-d2d6c194-b818-482e-a573-730f7ae18a2f.jpg)
+
+## App Overview :
+ CRUD APP :
+ 
+```bash
+- Backend ( Server-Side ) ✔️  Already Done ⏳
+- Frontend ❌ Not Implimented Yet ⌛ (Soon)
+```
+
+Note : Backend works just fine , we didn't decide either using Ionic or Angular as Frontend 
+
+See You Soon 🚀
