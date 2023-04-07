@@ -1,0 +1,15 @@
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\bin\Release\net6.0\DAL.deps.json
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\bin\Release\net6.0\DAL.dll
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\bin\Release\net6.0\DAL.pdb
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\bin\Release\net6.0\Core.dll
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\bin\Release\net6.0\Core.pdb
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\DAL.csproj.CopyComplete
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\DAL.dll
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\refint\DAL.dll
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\DAL.pdb
+C:\Users\Sam\Desktop\.Net\Ing_IAM\DAL\obj\Release\net6.0\ref\DAL.dll
