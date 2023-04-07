@@ -1,6 +1,8 @@
 ## Guide To Execute CRUD App Using .Net as Backend !
 
-Download The Projects and follow the screenshots Down Below 📸
+1. Download The Projects 
+2. Click on ```Ing_IAM.sln```
+3. Follow The screenshots Down Below 📸
 
 # Screenshots 📸
 
@@ -61,9 +63,7 @@ Select ```Body``` > ```Raw``` and change from  ```text``` to ```json``` and the 
 
 1. Download [dotnet-hosting-7.0.4](https://mega.nz/file/iEklyLjT#0wvBbJcD9uiQOdiRLuNnfJL1KNPz8PNk457DuGbPcG0)
 
-2. Follow The Video below : 
-
-[the Video](https://www.youtube.com/watch?v=gSVNQXa790c)
+2. Follow The Video Tutorial : [The Video](https://www.youtube.com/watch?v=gSVNQXa790c) 
 
 Make Sure All of Those are ticked ( verify every  task is ticked folder like this )
 
