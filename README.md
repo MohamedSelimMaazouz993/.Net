@@ -38,7 +38,7 @@ We Need To Change the name of database and password
 
 ![postman 4](https://user-images.githubusercontent.com/71633887/230671703-1f3766fe-bb38-49ba-9f44-9025aeee5e88.jpg)
 
-5.Select ```Body``` > ```Raw``` and change from  ```text``` to ```json``` and the Code below on the json fields :
+5.Select ```Body``` => ```Raw``` and change from  ```text``` to ```json``` and the Code below on the json fields :
 
 ```bash
 {
