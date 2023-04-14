@@ -1,4 +1,4 @@
-## Creation Of CRUD App Using .Net as Server-side (Backend) !
+## Creation Of CRUD App Fullstack ( Backend as .Net & Frontend as Angular 15)
 
 1. Download The Projects 
 2. Click on ```Ing_IAM.sln```
