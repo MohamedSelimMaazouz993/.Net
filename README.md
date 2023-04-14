@@ -96,9 +96,9 @@ Make Sure All of Those are ticked ✔️ ( verify every task is ticked folder li
  CRUD APP :
  
 ```bash
-- Database (PostgreSql) ✔️  Already Done ⏳
-- Backend ( Server-Side ) ✔️  Already Done ⏳
-- Frontend ❌ Not Implimented Yet ⌛ (Soon)
+- Database (PostgreSql) ✔️  Already Done ⌛
+- Backend ( Server-Side ) ✔️  Already Done ⌛
+- Frontend ❌ Not Implimented Yet ⏳(Soon)
 ```
 
 Note : Backend works just fine , we didn't decide either using Ionic or Angular as Frontend 
