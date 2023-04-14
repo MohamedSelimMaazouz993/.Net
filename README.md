@@ -65,7 +65,7 @@ We Need To Change the name of database and password
 
 1. Download [dotnet-hosting-7.0.4](https://mega.nz/file/iEklyLjT#0wvBbJcD9uiQOdiRLuNnfJL1KNPz8PNk457DuGbPcG0)
 
-2. This a Video Of How To Install With IIS : [How To Install With IIS](https://www.youtube.com/watch?v=gSVNQXa790c) 
+2. This a Video Of How To Install With IIS : [How To Install IIS](https://www.youtube.com/watch?v=gSVNQXa790c) 
 
 Make Sure All of Those are ticked ✔️ ( verify every task is ticked folder like this )
 
